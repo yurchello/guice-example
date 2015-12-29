@@ -7,6 +7,14 @@
     <groupId>guice-example</groupId>
     <artifactId>guice-example</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <dependencies>
+        <dependency>
+            <groupId>com.google.inject</groupId>
+            <artifactId>guice</artifactId>
+            <version>3.0</version>
+        </dependency>
+
+    </dependencies>
 
 
 </project>
